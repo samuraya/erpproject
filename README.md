@@ -13,11 +13,11 @@
 [![codecov](https://codecov.io/gh/frappe/erpnext/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/erpnext)
 [![docker pulls](https://img.shields.io/docker/pulls/frappe/erpnext-worker.svg)](https://hub.docker.com/r/frappe/erpnext-worker)
 
-[https://erpnext.com](https://erpnext.com)
+
 
 </div>
 
-ERPNext as a monolith includes the following areas for managing businesses:
+ERPProject as a monolith includes the following areas for managing businesses:
 
 1. [Accounting](https://erpnext.com/open-source-accounting)
 1. [Warehouse Management](https://erpnext.com/distribution/warehouse-management-system)
@@ -34,7 +34,7 @@ ERPNext as a monolith includes the following areas for managing businesses:
 1. [Customize ERPNext](https://erpnext.com/docs/user/manual/en/customize-erpnext)
 1. [And More](https://erpnext.com/docs/user/manual/en/)
 
-ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
+This project is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
 ## Installation
 
